@@ -65,6 +65,3 @@ def save_image(im, f):
 if __name__ == "__main__":
     im = load_image("data/dog.jpg")
     save_image(im, "hey")
-
-    
-
